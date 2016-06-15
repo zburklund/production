@@ -1,3 +1,6 @@
 .table-hover>tbody>tr:hover>td>a {
 	color:#fff;
 }
+.page-sidebar .page-sidebar-menu > li.active.open > a:only-child, .page-sidebar .page-sidebar-menu > li.active > a:only-child {
+	padding-bottom:15px;
+}
