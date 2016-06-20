@@ -4,3 +4,17 @@
 .page-sidebar .page-sidebar-menu > li.active.open > a:only-child, .page-sidebar .page-sidebar-menu > li.active > a:only-child {
 	padding-bottom:15px;
 }
+.simple-image-left>div {
+	padding-left:0px;
+}
+
+<section class="simple-image simple-image-left">
+<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 subfeatures subfeatures-gray">
+    <div class="thumbnail">
+        <img class="media-object" src="http://placehold.it/270x400" alt="Mid-American Gardener panelists on the set">
+        <div class="caption">
+            <p>Aenean id neque in felis auctor aliquam sit.</p>
+        </div>
+    </div>
+</div>
+</section>
